@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "my post test"
+date:   2025-03-10 22:29:00 +0900
+categories: jekyll update ocaml
+---
+
+This is my post.
+
+{% highlight ocaml %}
+map (fun x -> x * 2) [4; 91; -4; 121];;
+{% endhighlight %}
