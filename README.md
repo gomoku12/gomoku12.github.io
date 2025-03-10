@@ -1,1 +1,0 @@
-# gomoku12.github.io
